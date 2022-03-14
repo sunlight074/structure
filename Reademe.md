@@ -1,4 +1,4 @@
-
+```bash
 │   .gitignore
 │   README.md
 │   yarn.lock
@@ -66,3 +66,4 @@
         │       .DS_Store
         ├───────src
         ├───────laravel-nuxt
+```
